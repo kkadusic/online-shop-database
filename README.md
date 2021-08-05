@@ -1,2 +1,3 @@
 # Online shop database
-Database for online shop as a part of a university course.
+This repository contains a database for an online shop as a part of a university course. In addition to database design, 
+there are scripts with various queries, triggers, indexes, and views, as well as one function and procedure. 
