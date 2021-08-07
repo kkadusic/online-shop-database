@@ -8,5 +8,5 @@ BEGIN
       COMMIT;
 END;
 
--- Delete next line, only for TSQL GitHub language detection
-DECLARE @test VARCHAR(255)
+-- Delete this and next line, only for TSQL GitHub language detection
+-- DECLARE @test VARCHAR(255)
